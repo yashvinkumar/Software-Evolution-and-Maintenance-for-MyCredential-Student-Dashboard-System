@@ -1,2 +1,2 @@
 # UMPSA-MyCredential-System
-UMPSA MyCredential system for managing module booking, club activities, credit claims, and student academic modules with software maintenance and enhancement implementation.
+UMPSA MyCredential multi-user management system for students, lecturers, and administrators involving module booking, activity management, credit claims, and academic monitoring with software maintenance and enhancement implementation.
